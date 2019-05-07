@@ -1,11 +1,11 @@
-# ![LOGO](logo.png) Amazon Polly MSP Connector
+# ![LOGO](logo.png) Amazon Polly **flow**ground Connector
 
 ## Description
 
-A generated MSP connector for the Amazon Polly API (version 2016-06-10).
+A generated **flow**ground connector for the Amazon Polly API (version 2016-06-10).
 
 Generated from: https://api.apis.guru/v2/specs/amazonaws.com/polly/2016-06-10/swagger.json<br/>
-Generated at: 2019-05-07T11:16:26+03:00
+Generated at: 2019-05-07T17:36:07+03:00
 
 ## API Description
 
@@ -136,7 +136,7 @@ Supported authorization schemes:
 
 ## License
 
-flowground :- Telekom iPaaS / amazonaws-com-polly-connector<br/>
+**flow**ground :- Telekom iPaaS / amazonaws-com-polly-connector<br/>
 Copyright © 2019, [Deutsche Telekom AG](https://www.telekom.de)<br/>
 contact: flowground@telekom.de
 
